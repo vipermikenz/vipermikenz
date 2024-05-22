@@ -22,4 +22,5 @@ I am a highly skilled web developer with over 15 years of hands-on experience. M
 
 - **Rugby League:** Passionate about the sport
 - **Culinary Arts:** Enjoy experimenting with new recipes
+- **Ardunio:** I liek to build Internet of thing gadgets
 - **Gardening:** Helps me relax and stay creative
