@@ -7,6 +7,7 @@ I am a highly skilled web developer with over 15 years of hands-on experience. M
 - **Languages:** PHP, MySQL, HTML5, CSS, JavaScript
 - **Frameworks:** Symfony, Node.js, Vue3
 - **Cloud Services:** Microsoft Azure, AWS
+- **CMS:** Drupal, WordPress, WooComerce
 - **Containerization:** Docker
 - **Version Control:** GIT, SVN
 - **Others:** SEO, Web Usability, E-commerce Optimization
